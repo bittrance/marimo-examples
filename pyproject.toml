@@ -1,2 +1,10 @@
+[project]
+name = "marimo-examples"
+version = "0.1.0"
+description = "A curated collection of example marimo notebooks — use these as templates for your own experiments, workflows, and tools."
+authors = ["akshay@marimo.io"]
+license = "MIT"
+readme = "README.md"
+
 [tool.pytest.ini_options]
 pythonpath = ["."]
